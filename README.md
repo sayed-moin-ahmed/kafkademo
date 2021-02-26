@@ -1,6 +1,7 @@
 # Kafka Installation and Commands
 ## http://cloudurable.com/blog/what-is-kafka/index.html
 ## https://tecadmin.net/install-apache-kafka-ubuntu/
+## https://dattell.com/data-architecture-blog/kafka-optimization-how-many-partitions-are-needed/
 
 ## Commands:
 ### sudo bin/kafka-server-start.sh config/server-1.properties &
