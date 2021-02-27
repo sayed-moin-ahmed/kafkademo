@@ -1,4 +1,5 @@
 # Kafka Installation and Commands
+## http://kafka.apache.org/documentation.html#gettingStarted
 ## http://cloudurable.com/blog/what-is-kafka/index.html
 ## https://tecadmin.net/install-apache-kafka-ubuntu/
 ## https://dattell.com/data-architecture-blog/apache-kafka-optimization/
